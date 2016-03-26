@@ -1,3 +1,4 @@
 March 25, 2016
 This Project started around the beginning of March 2016. 
-I decided that I wanted to learn Python and use it for creating a database. I was able to learn how to bring in an EXCEL spreadsheet into SQlite and make a window in tKinter to put in data and update the database. I just cannot figure out yet how to do a search and have the data show up in the label windows. 
+I decided that I wanted to learn Python and use it for creating a database. I was able to learn how to bring in an EXCEL spreadsheet into SQlite and make a window in tKinter to put in data and update the database. I just cannot figure out yet how to do a search and have the data show up in the label windows.
+I learned how to use GitHub for Linux from this website: https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu-14.04/
